@@ -1,2 +1,1 @@
-smp_assig
-=========
+i am on server on .
